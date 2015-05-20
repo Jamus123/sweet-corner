@@ -1,5 +1,6 @@
 # sweet-corner
 
+<<<<<<< HEAD
 ##Scope
 
 You will be building out the Sweet Corner website
@@ -15,3 +16,12 @@ You will be building out the Sweet Corner website
 	- Your page should still display properly on a full sized screen  
 
 - Assets for the page can be found <a href="https://github.com/Learning-Fuze/sweet-corner/tree/assets" target="_blank">Here</a>
+=======
+### Assets
+
+- Here you will find assets neccessary to build out the Sweet Corner website.
+	- Images - contains images to be included on the site
+	- SC_preview - contains design docs on how the site will look
+
+##### <a href="https://github.com/Learning-Fuze/sweet-corner/tree/master">Return to master</a>
+>>>>>>> assets
