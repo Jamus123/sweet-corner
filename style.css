@@ -1,0 +1,54 @@
+body {
+    color: #754b23;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.main-logo {
+    height: 194px;
+    background-image: url("images/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cursive {
+    font-family: 'Pacifico', cursive;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.logo-bar {
+	background-color: #754b23;
+	height: 24px;
+}
+
+.strips {
+	background-image: url("images/strips2.png");
+	background-repeat: repeat-y;
+	background-position: right;
+	background-size: 40%;
+}
+.strips .dots {
+	position: absolute;
+	float: right;
+	right:40px;
+	top:30px;
+}
+.margin {
+	margin-bottom: 45px;
+}
+
+footer {
+    background-color: #06b4af;
+    color: #fff;
+    height: 80px;
+    font-size: 12px
+}
+
+footer .dots {
+	position: absolute;
+	top: 18px;
+    left: 40px;
+}
+.phone-margin {
+	margin-top: 20px;
+}
